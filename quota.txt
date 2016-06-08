@@ -1,0 +1,20 @@
+acesusai
+--- 
+apiversion: 3
+func: get_quota_info
+module: Quota
+result: 
+  data: 
+    inode_limit: 0
+    inodes_remain: 0
+    inodes_used: 16592
+    megabyte_limit: '5120.00'
+    megabytes_remain: '4959.84'
+    megabytes_used: '164.91'
+    under_inode_limit: 1
+    under_megabyte_limit: 1
+    under_quota_overall: 1
+  errors: ~
+  messages: ~
+  metadata: {}
+  status: 1
